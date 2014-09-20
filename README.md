@@ -1,2 +1,2 @@
-localreads.github.io
+Localreads Website
 ====================
